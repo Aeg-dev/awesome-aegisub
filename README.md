@@ -8,6 +8,7 @@
 - [字幕制作流程](#字幕制作流程)
 - [Aegisub](#aegisub)
 - [Tools](#tools)
+- [Contribute](#contribute)
 
 
 ## 字幕制作流程
