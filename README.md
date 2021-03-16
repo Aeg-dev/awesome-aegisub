@@ -31,7 +31,7 @@
 ### 压制
 - 【图文】[VCB-Studio 教程专栏](https://vcb-s.nmm-hd.org/)
 
-----
+---
 
 ## Aegisub
 
@@ -50,7 +50,7 @@ Aegisub —— Cross-platform advanced subtitle editor.
     - [web.archive](https://web.archive.org/web/20201215063947/http://www.aegisub.org/)
 - 中文官网: [Aegisub 高级字幕编辑器](https://aegi.vmoe.info/)
 
-----
+---
 
 ## Tools
 
