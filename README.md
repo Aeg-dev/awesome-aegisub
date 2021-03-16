@@ -45,6 +45,12 @@ Aegisub —— Cross-platform advanced subtitle editor.
 - [FansubID/Aegisub: (Aegisub-Japan7)](https://github.com/FansubID/Aegisub)
 - [swigger/Aegisub-mac10.15](https://github.com/swigger/Aegisub-mac10.15)
 
+### doc
+- http://www.aegisub.org/
+    - [web.archive](https://web.archive.org/web/20201215063947/http://www.aegisub.org/)
+- 中文官网: [Aegisub 高级字幕编辑器](https://aegi.vmoe.info/)
+
+----
 
 ## Tools
 
