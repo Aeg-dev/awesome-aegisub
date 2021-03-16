@@ -37,7 +37,7 @@
 
 Aegisub —— Cross-platform advanced subtitle editor.
 
-- [Aegisub/Aegisub](https://github.com/Aegisub/Aegisub)
+- [Aegisub/Aegisub](https://github.com/Aegisub/Aegisub) - 
     last update: 2019-10-07
 - [TypesettingTools/Aegisub](https://github.com/TypesettingTools/Aegisub)
 - [wangqr/Aegisub](https://github.com/wangqr/Aegisub)
