@@ -40,11 +40,11 @@ Aegisub —— Cross-platform advanced subtitle editor.
 
 - [Aegisub/Aegisub](https://github.com/Aegisub/Aegisub) - 
     last update: 2019-10-07
-- [TypesettingTools/Aegisub](https://github.com/TypesettingTools/Aegisub)
-- [wangqr/Aegisub](https://github.com/wangqr/Aegisub)
-- [Ristellise/AegisubDC: Aegisub, Daydream Cafe Edition](https://github.com/Ristellise/AegisubDC)
-- [FansubID/Aegisub: (Aegisub-Japan7)](https://github.com/FansubID/Aegisub)
-- [swigger/Aegisub-mac10.15](https://github.com/swigger/Aegisub-mac10.15)
+- [win/mac?] [TypesettingTools/Aegisub](https://github.com/TypesettingTools/Aegisub)
+- [win/mac] [wangqr/Aegisub](https://github.com/wangqr/Aegisub)
+- [win] [Ristellise/AegisubDC: Aegisub, Daydream Cafe Edition](https://github.com/Ristellise/AegisubDC)
+- [win] [FansubID/Aegisub: (Aegisub-Japan7)](https://github.com/FansubID/Aegisub)
+- [mac] [swigger/Aegisub-mac10.15](https://github.com/swigger/Aegisub-mac10.15)
 
 ### doc
 - http://www.aegisub.org/
