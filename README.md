@@ -8,6 +8,7 @@
 - [字幕制作流程](#字幕制作流程)
 - [Aegisub](#aegisub)
 - [Tools](#tools)
+- [Templates](#templates)
 - [Contribute](#contribute)
 
 
@@ -57,6 +58,13 @@ Aegisub —— Cross-platform advanced subtitle editor.
 
 - [Myaamori/aegisub-cli: Standalone binary for running Aegisub automations from the command line.](https://github.com/Myaamori/aegisub-cli)
 
+---
+
+## Templates
+
+- [inkydragon/Aegisub-Karaoke-Templates](https://github.com/inkydragon/Aegisub-Karaoke-Templates) -
+    模板和模板批量编译预览工具
+- [Seekladoom/Aegisub-Karaoke-Effect-481-Templates: 转载自https://huyhuu.com/news/1282/Aegisub-Karaoke-Effect](https://github.com/Seekladoom/Aegisub-Karaoke-Effect-481-Templates)
 
 
 ## Contribute
