@@ -1,15 +1,16 @@
 # Awesome Aegisub [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+来打轴吧！
+
 > Awesome lists about everything you need to make subtitles.
 
 
-## Contents
+## 目录
 
 - [字幕制作流程](#字幕制作流程)
 - [Aegisub](#aegisub)
-- [Tools](#tools)
-- [Templates](#templates)
-- [Contribute](#contribute)
+- [工具](#工具)
+- [模板](#模板)
 
 
 ## 字幕制作流程
@@ -54,19 +55,15 @@ Aegisub —— Cross-platform advanced subtitle editor.
 
 ---
 
-## Tools
+## 工具
 
 - [Myaamori/aegisub-cli: Standalone binary for running Aegisub automations from the command line.](https://github.com/Myaamori/aegisub-cli)
 
 ---
 
-## Templates
+## 模板
 
 - [inkydragon/Aegisub-Karaoke-Templates](https://github.com/inkydragon/Aegisub-Karaoke-Templates) -
     模板和模板批量编译预览工具
 - [Seekladoom/Aegisub-Karaoke-Effect-481-Templates: 转载自https://huyhuu.com/news/1282/Aegisub-Karaoke-Effect](https://github.com/Seekladoom/Aegisub-Karaoke-Effect-481-Templates)
 
-
-## Contribute
-
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
