@@ -16,23 +16,19 @@
 ## 字幕制作流程
 
 > 本 Awesome lists 主要针对 Aeg 相关的资源。故此处仅简要概述全流程。  
-> 各步骤详细说明请点击**标题**查看。
+> 各步骤详细说明请点击**各小节标题🔗**查看。
 
-### [素材](rec.md)
-
-+ **直播录制**：[B站录播姬 - BiliBili直播录制工具](https://rec.danmuji.org/)
-+ **下载录播**：[the1812/Bilibili-Evolved: 强大的哔哩哔哩增强脚本](https://github.com/the1812/Bilibili-Evolved)
-
-### 打轴
-- 【视频】[【Aegisub 字幕教学】5分钟学会打轴，1小时就能进组](https://www.bilibili.com/video/BV1oK411T7kL)
-- 【图文】[如何做字幕？ - 知乎](https://zhuanlan.zhihu.com/p/26634531 )
-
-### 特效
-- 【视频】[【教程】Aegisub 特效字幕，从零基础学自动化合辑](https://www.bilibili.com/video/BV1Z4411z7BH)
-- 字体: [source-han-sans/SubsetOTF/CN](https://mirrors.tuna.tsinghua.edu.cn/adobe-fonts/source-han-sans/SubsetOTF/CN/)
-
-### 压制
-- 【图文】[VCB-Studio 教程专栏](https://vcb-s.nmm-hd.org/)
+1. [素材🔗](rec.md)
+    + 直播录制：[B站录播姬 - BiliBili直播录制工具](https://rec.danmuji.org/)
+    + 下载录播：[the1812/Bilibili-Evolved: 强大的哔哩哔哩增强脚本](https://github.com/the1812/Bilibili-Evolved)
+2. 打轴
+    - 【视频】[【Aegisub 字幕教学】5分钟学会打轴，1小时就能进组](https://www.bilibili.com/video/BV1oK411T7kL)
+    - 【图文】[如何做字幕？ - 知乎](https://zhuanlan.zhihu.com/p/26634531 )
+3. 特效
+    - 【视频】[【教程】Aegisub 特效字幕，从零基础学自动化合辑](https://www.bilibili.com/video/BV1Z4411z7BH)
+    - 字体: [source-han-sans/SubsetOTF/CN](https://mirrors.tuna.tsinghua.edu.cn/adobe-fonts/source-han-sans/SubsetOTF/CN/)
+4. 压制
+    - 【图文】[VCB-Studio 教程专栏](https://vcb-s.nmm-hd.org/)
 
 ---
 
